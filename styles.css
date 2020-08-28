@@ -51,8 +51,35 @@ body {
 	list-style: none;
 	background-color: rgba(232, 236, 241, 1);
 }
+
+#navbar li:hover {
+	background-color: rgba(218, 223, 225, 1);
+}
+
 nav {
 	display: block;
+}
+
+.contact-info {
+	text-align: center;
+	margin-top: 30px;
+}
+
+.contact-info h1 {
+	font-size: 2rem;
+	font-weight: 100;
+}
+
+.contact-info h2 {
+	font-size: 1rem;
+	font-weight: 100;
+}
+
+.logo img {
+	width: 60%;
+	height: 60%;
+	margin-top: 50px;
+	margin-left: 20%;
 }
 
 #main-doc {
@@ -77,24 +104,27 @@ nav {
 	margin-left: 50px;
 }
 
-.main-section code {
-	display: block;
-	text-align: left;
-	white-space: pre;
-	position: relative;
-	word-break: normal;
-	line-height: 2;
-	background-color: #f7f7f7;
-	padding: 20px;
-	margin: 10px;
-	border-radius: 5px;
+.main-section ol {
+	margin-left: 50px;
 }
 
+.copyright {
+	text-align: center;
+	margin-top: 5px;
+	font-size: .7rem;
+	letter-spacing: 6px;
+	font-weight: 100;
+}
 @media only screen and (max-width: 815px) {
 	#navbar ul {
 		border-bottom: 2px solid;
 		height: 260px;
 	}
+
+	#navbar header {
+		margin-bottom: 5px;
+	}
+
 	#navbar {
 		background-color: white;
 		position: absolute;
@@ -103,12 +133,15 @@ nav {
 		margin: 0;
 		width: 100%;
 		max-height: 300px;
-
 		z-index: 1;
 	}
 	#main-doc {
 		position: relative;
 		margin-left: 0px;
-		margin-top: 19rem;
+		margin-top: 39rem;
+	}
+
+	.copyright {
+		font-size: 0.6rem;
 	}
 }
