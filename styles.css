@@ -62,7 +62,7 @@ nav {
 
 .contact-info {
 	text-align: center;
-	margin-top: 75px;
+	margin-top: 2rem;
 }
 
 .contact-info h1 {
@@ -135,10 +135,15 @@ nav {
 		max-height: 300px;
 		z-index: 1;
 	}
+	.contact-info {
+		text-align: center;
+		margin-top: 4rem;
+	}
+
 	#main-doc {
 		position: relative;
 		margin-left: 0px;
-		margin-top: 35rem;
+		margin-top: 38rem;
 	}
 
 	.copyright {
