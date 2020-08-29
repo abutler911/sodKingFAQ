@@ -109,11 +109,11 @@ nav {
 }
 
 #aftercare h3 {
-	margin-left: 5rem;
+	margin-left: 4rem;
 }
 
 #aftercare li {
-	margin-left: 5rem;
+	margin-left: 4rem;
 }
 .copyright {
 	text-align: center;
@@ -152,7 +152,13 @@ nav {
 		margin-left: 0px;
 		margin-top: 38rem;
 	}
+	#aftercare h3 {
+		margin-left: 0.5rem;
+	}
 
+	#aftercare li {
+		margin-left: 0.5rem;
+	}
 	.copyright {
 		font-size: 0.6rem;
 	}
