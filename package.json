@@ -16,5 +16,8 @@
 	"bugs": {
 		"url": "https://github.com/abutler911/sodKingFAQ/issues"
 	},
-	"homepage": "https://github.com/abutler911/sodKingFAQ#readme"
+	"homepage": "https://github.com/abutler911/sodKingFAQ#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
 }
