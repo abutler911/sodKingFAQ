@@ -93,7 +93,6 @@ nav {
 	font-size: 35px;
 	letter-spacing: 2px;
 	font-weight: 800;
-	color: red;
 }
 
 #main-doc p {
@@ -138,7 +137,7 @@ nav {
 	}
 	.contact-info {
 		text-align: center;
-		margin-top: 4rem;
+		margin-top: 6.4rem;
 	}
 
 	#main-doc {
