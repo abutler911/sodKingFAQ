@@ -62,7 +62,11 @@ nav {
 }
 
 #faqs {
-	font-size: 6px;
+	font-size: 20px !important;
+}
+
+.bigletter {
+	font-size: 50px;
 }
 .contact-info {
 	text-align: center;
@@ -155,7 +159,7 @@ nav {
 	#main-doc {
 		position: relative;
 		margin-left: 0px;
-		margin-top: 45rem;
+		margin-top: 47rem;
 	}
 	#aftercare h3 {
 		margin-left: 0.5rem;
