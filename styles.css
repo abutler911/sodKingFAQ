@@ -61,6 +61,9 @@ nav {
 	display: block;
 }
 
+#faqs {
+	font-size: 6px;
+}
 .contact-info {
 	text-align: center;
 	margin-top: .5rem;
