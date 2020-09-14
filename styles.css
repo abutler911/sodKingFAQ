@@ -117,12 +117,13 @@ nav {
 	margin-left: 50px;
 }
 
-#aftercare h3 {
-	margin-left: 4rem;
+#aftercare h4 {
+	margin-left: 1.1rem;
+	margin-top: 1rem;
 }
 
 #aftercare li {
-	margin-left: 4rem;
+	/* margin-left: 4rem; */
 }
 .copyright {
 	text-align: center;
