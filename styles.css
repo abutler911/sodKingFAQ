@@ -161,6 +161,10 @@ nav {
 	}
 
 	.main-section h3 {
+		margin-left: 0.2rem;
+	}
+
+	.main-section li {
 		margin-left: 0.5rem;
 	}
 	#aftercare h3 {
