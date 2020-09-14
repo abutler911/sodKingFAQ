@@ -122,9 +122,6 @@ nav {
 	margin-top: 1rem;
 }
 
-#aftercare li {
-	/* margin-left: 4rem; */
-}
 .copyright {
 	text-align: center;
 	margin-top: 5px;
@@ -139,7 +136,7 @@ nav {
 	}
 
 	#navbar header {
-		margin-bottom: 5px;
+		margin-bottom: 7px;
 	}
 
 	#navbar {
