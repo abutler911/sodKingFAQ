@@ -155,8 +155,9 @@ nav {
 	}
 
 	#main-doc {
-		position: relative;
+		/* position: relative; */
 		margin-top: 47rem;
+		/* margin-left: -5px; */
 	}
 
 	/* #installation h3 {
