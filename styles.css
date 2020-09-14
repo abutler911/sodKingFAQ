@@ -156,23 +156,23 @@ nav {
 
 	#main-doc {
 		position: relative;
-		margin-left: -10px;
+		margin-left: -5px;
 		margin-top: 47rem;
 	}
 
 	#installation h3 {
-		margin-left: 0.1rem;
+		margin-left: -10px;
 	}
 
 	#installation li {
-		margin-left: 0.1rem;
+		margin-left: -10px;
 	}
 	#aftercare h3 {
-		margin-left: 0.1rem;
+		margin-left: -10px;
 	}
 
 	#aftercare li {
-		margin-left: 0.1rem;
+		margin-left: -10px;
 	}
 	.copyright {
 		font-size: 0.5rem;
