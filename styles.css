@@ -157,7 +157,7 @@ nav {
 	#main-doc {
 		position: relative;
 		/* margin-left: -5px; */
-		justify-content: left;
+		align-items: inherit;
 		margin-top: 47rem;
 	}
 
