@@ -102,7 +102,7 @@ nav {
 	font-weight: 700;
 	/*border: 4px dashed teal;*/
 	/*background: rgba(182, 183, 245, 0.5);*/
-	font-family: cursive;
+	/*font-family: cursive;*/
 }
 
 #main-doc p {
@@ -123,7 +123,7 @@ nav {
 #aftercare h4 {
 	margin-left: 1.1rem;
 	margin-top: 1rem;
-	color: yellow;
+	color: black;
 }
 
 .copyright {
