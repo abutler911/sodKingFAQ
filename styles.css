@@ -56,8 +56,8 @@ body {
 }
 
 #navbar li:hover {
-	/* background-color: rgba(218, 223, 225, 1); */
-	background-color: purple;
+	 background-color: rgba(218, 223, 225, 1); 
+	/*background-color: purple;*/
 }
 
 nav {
