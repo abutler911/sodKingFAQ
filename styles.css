@@ -100,15 +100,15 @@ nav {
 	font-size: 35px;
 	letter-spacing: 2px;
 	font-weight: 700;
-	border: 4px dashed teal;
-	background: rgba(182, 183, 245, 0.5);
+	/*border: 4px dashed teal;*/
+	/*background: rgba(182, 183, 245, 0.5);*/
 	font-family: cursive;
 }
 
 #main-doc p {
 	margin-bottom: 10px;
 	font-size: 0.96em;
-	color: red;
+	color: black;
 }
 
 .main-section ul {
